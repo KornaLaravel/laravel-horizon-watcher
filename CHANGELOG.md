@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-horizon-watcher` will be documented in this file.
 
+## 1.1.5 - 2026-02-27
+
+Support Laravel 13
+
 ## 1.1.4 - 2025-07-17
 
 ### What's Changed
